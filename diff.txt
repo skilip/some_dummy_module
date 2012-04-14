@@ -1,0 +1,29 @@
+diff --git a/hoi.html b/hoi.html
+index e058927..e778e8e 100644
+--- a/hoi.html
++++ b/hoi.html
+@@ -1,2 +1,2 @@
+ hallo
+-<div> Hoi </div>
+\ No newline at end of file
++<div> Hoi </div>
+diff --git a/nogeentje.txt b/nogeentje.txt
+index 988e37a..4510c43 100644
+--- a/nogeentje.txt
++++ b/nogeentje.txt
+@@ -1,2 +1,2 @@
+-duzz..
+-met een toevoeging via github
+\ No newline at end of file
++duzz.....
++met een toevoeging via github
+diff --git a/style_ie.css b/style_ie.css
+index f9eb061..0e940cb 100644
+--- a/style_ie.css
++++ b/style_ie.css
+@@ -3,3 +3,5 @@ body {
+ }
+ 
+ //TODO ...
++
++//Posted in branch Marco
